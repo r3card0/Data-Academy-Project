@@ -1,2 +1,4 @@
 venv_pda/
 Doc/
+.DS_Store
+.ipynb_checkpoints/
