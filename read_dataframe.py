@@ -6,7 +6,7 @@ import seaborn as sns
 
 def description():
     program_description = """
-    This program read a dataframe
+    This program reads a dataframe
     """
     return program_description
 
