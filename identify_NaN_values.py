@@ -7,9 +7,9 @@ from read_dataframe import read_dataframe
 
 def description():
     program_description = """
-    This program returns all rows
-    with NaN values, if not, returns
-    Dataframe free of NaN values  """
+    This program evaluates if a dataframe has NaN values,
+    if true, returns all rows with NaN values
+    if not, returns a message: Dataframe free of NaN values  """
     return program_description
 
 df = read_dataframe()
@@ -18,7 +18,7 @@ def identify_nan():
     value_null = df.isnull().values.any()
     return value_null
 
-value_null = identify_nan()
+#value_null = identify_nan()
 
 def rows_nan():
     rows_value_null = df[df.isnull().any(axis=1)]
