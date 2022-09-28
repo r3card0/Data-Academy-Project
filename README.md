@@ -15,6 +15,7 @@ As a new hired Data Analyst the objective is to provide insights about retail ma
 pip install jupyter pandas matplotlib seaborn
 ```
 
+* [Spanish version](https://deepnote.com/workspace/r3card0-89c00ed9-4a2b-42ab-8ae8-921d58ea62ec/project/Proyecto-Datacademy-65c713ba-14d4-4d31-bc27-e023f18c8bec/%2FData-Academy-Project%2Fproyecto_datacademy.ipynb)
 <!-- ## Business Questions
 
 1. Who is the largest seller?
