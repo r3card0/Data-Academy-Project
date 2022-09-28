@@ -4,7 +4,7 @@
 
 
 ## Problem Statement
----
+
 A retail company is going to open operations in the USA. Sales Managers want to know about retail market through the analysis of the 25 largest retail companies in the country. They have some business questions in order to get a better understanding of the market.
 
 ## Objective
