@@ -12,7 +12,7 @@ As a new hired Data Analyst the objective is to provide insights about retail ma
 
 ## Installation
 ```bash
-pip install pandas matplotlib seaborn
+pip install jupyter pandas matplotlib seaborn
 ```
 
 <!-- ## Business Questions
