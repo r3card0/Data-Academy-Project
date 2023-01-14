@@ -1,4 +1,4 @@
-![single](/single.png)
+![single](/single.jpeg)
 
 # Analysis of the 25 largest retailers in the United States
 
