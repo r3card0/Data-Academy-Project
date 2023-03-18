@@ -1,7 +1,6 @@
-![single](/single.jpeg)
-
 # Analysis of the 25 largest retailers in the United States
 
+![single](/single.jpeg)
 
 ## Problem Statement
 
@@ -10,17 +9,23 @@ A retail company is going to open operations in the USA. Sales Managers want to 
 ## Objective
 As a new hired Data Analyst the objective is to provide insights about retail market and competitors.
 
+## Getting started
+Use a dataset to explore, clean and analyse to get insights related to: *Who is the largest seller?, How many sales do most retailers produce?, How many stores do most retailers have?,  What is the range of sales?* and so on.
+
+Implement jupyter notebooks to run Python libraries to handle the data and perform data analysis
+
 ## Installation
 ```bash
 pip install jupyter pandas matplotlib seaborn
 ```
-## Notebook files
-* [Spanish version](https://deepnote.com/workspace/r3card0-89c00ed9-4a2b-42ab-8ae8-921d58ea62ec/project/Proyecto-Datacademy-65c713ba-14d4-4d31-bc27-e023f18c8bec/%2FData-Academy-Project%2Fproyecto_datacademy.ipynb)
+## Output - Notebooks
+- [ ] [Spanish version - insights](https://deepnote.com/workspace/r3card0-89c00ed9-4a2b-42ab-8ae8-921d58ea62ec/project/Proyecto-Datacademy-65c713ba-14d4-4d31-bc27-e023f18c8bec/%2FData-Academy-Project%2Fproyecto_datacademy.ipynb)
 
-* English version
+- [ ] English version
 
-## Python Scripts
-* [Scripts](https://github.com/r3card0/Data-Academy-Project/tree/main/scripts)
+## Resources
+- [ ] [Python Scripts](https://github.com/r3card0/Data-Academy-Project/tree/main/scripts)
+- [ ] [Dataset](https://deepnote.com/workspace/r3card0-89c00ed9-4a2b-42ab-8ae8-921d58ea62ec/project/Proyecto-Datacademy-65c713ba-14d4-4d31-bc27-e023f18c8bec/%2Flargest_us_retailers.csv)
 <!-- ## Business Questions
 
 1. Who is the largest seller?
